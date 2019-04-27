@@ -1,5 +1,24 @@
+body {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #222;
+  background-color: #f6f9fc;
+}
+
 main {
   max-width: 70ch;
   padding: 2ch;
   margin: auto;
+}
+
+a {
+  color: #268bd2;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #22a;
 }

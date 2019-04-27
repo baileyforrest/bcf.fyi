@@ -1,7 +1,4 @@
 title: bcf
-url: "https://bcf.fyi"
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
